@@ -1,0 +1,498 @@
+{
+  "success": true,
+  "credits_left": 20,
+  "rate_limit_left": 20,
+  "person": {
+    "publicIdentifier": "jferna57",
+    "linkedInIdentifier": "ACoAAAC0ucQBCTxH8ZzBKWbdJjhYCFqLN6nNIhE",
+    "memberIdentifier": "11844036",
+    "linkedInUrl": "https://www.linkedin.com/in/jferna57",
+    "firstName": "Juan Carlos",
+    "lastName": "Fernández Galante",
+    "headline": "Solutions Architect | DevSecOps and Hybrid Cloud Specialist | Crafting Strategies to Drive Innovation and Resilient IT Solutions",
+    "location": "Sabadell, Catalonia, Spain",
+    "summary": "🚀 Passionate Tech Enthusiast | Cloud Solutions Architect 💡 | 20+ Years of Transformative IT Experience 🌐\n\nSince graduating from the University of Barcelona in 2001, I've embarked on a dynamic journey in the IT realm. Over the past two decades, I've donned various hats - from educator and developer to functional analyst, team leader, project manager, and now, a Hands-On Solution Architect and Cloud-Native Advocate at Ricoh Spain.\n\n🌟 Current Role: Hands-On Solution Architect & Cloud-Native Advocate at Ricoh Spain\nEmpowering companies to seamlessly embrace cutting-edge technologies and utilize them effectively is my forte. My typical workday involves immersive engagements with C-level executives, project managers, team leaders, and software architects to grasp their functional and technical needs.\n\n🛠️ Daily Activities:\n\nConducting insightful meetings to understand and align with CX, project managers, and team leaders.\nCrafting Proof of Concepts (PoCs) based on identified requirements to showcase tangible solutions.\nConstantly evaluating emerging technologies and providing guidance to colleagues for optimal implementation.\n🏆 Expertise Highlights:\n\nCloud Solutions Architecture: Specializing in architecting robust and scalable cloud solutions.\nTechnology Adoption: Facilitating seamless integration of new technologies for enhanced productivity.\nCollaborative Leadership: Leading teams to success through effective communication and strategic guidance.\n🌐 Passion Beyond Tech:\nBeyond the digital realm, I'm committed to maintaining a healthy lifestyle through regular exercise, savoring moments in nature, and cherishing quality time with family and friends. For the past few years, I've found solace and joy in the exhilarating world of climbing.",
+    "photoUrl": null,
+    "backgroundUrl": "https://media.licdn.com/dms/image/v2/D4E16AQHDpU265xtgPg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739199922331?e=1744848000&v=beta&t=CT4gTQvTiUKq7N2Dz3wmzJ_CBOWcBUYJmZF5VH4x-Iw",
+    "openToWork": false,
+    "premium": false,
+    "pronoun": null,
+    "showVerificationBadge": true,
+    "creationDate": {
+      "month": 5,
+      "year": 2007
+    },
+    "followerCount": 684,
+    "positions": {
+      "positionsCount": 8,
+      "positionHistory": [
+        {
+          "title": "Hybrid Cloud Presales Engineer",
+          "companyName": "Ricoh IT Services",
+          "companyLocation": "Sant Cugat del Vallès, Cataluña, España · Hybrid",
+          "description": "☁️ Hybrid Cloud Presales Engineer\n\nSoy Ingeniero de Preventa especializado en soluciones de Cloud Híbrido, Público y Privado, con experiencia en VMware vSphere Cloud Foundation, Tanzu Kubernetes y Azure. Ayudo a las empresas a adoptar la tecnología cloud de forma eficiente, optimizando sus entornos IT mediante soluciones escalables, seguras y flexibles que combinan lo mejor del cloud público y privado.\n\n🚀 Actividades Clave:\n\nConsultoría Estratégica: Colaboro con clientes para entender sus desafíos comerciales y diseñar soluciones que integren cloud híbrido y público, impulsando su transformación digital.\nDesarrollo de Propuestas: Creo propuestas técnicas que abordan necesidades específicas, destacando cómo nuestras soluciones mejoran la eficiencia operativa y la seguridad.\nDemostraciones Técnicas: Presento demostraciones de alto impacto que permiten a los clientes visualizar el valor de las soluciones propuestas.\n\n🔧 Tecnologías y Competencias:\n\nCloud Híbrido y Privado: Experiencia en arquitecturas híbridas que combinan la flexibilidad del cloud público (Azure) con el control del cloud privado (VMware vSphere), optimizando tanto la escalabilidad como la seguridad.\nContenedores y Kubernetes: Implemento soluciones tanto en kubernetes para la modernización de aplicaciones, facilitando una gestión eficiente y ágil de contenedores.\nOptimización de Costos (FinOps): Aplicación de prácticas FinOps para garantizar una inversión eficiente en cloud, maximizando el retorno de inversión y reduciendo costos innecesarios.\nMi objetivo es proporcionar soluciones cloud que no solo resuelvan desafíos técnicos, sino que también estén alineadas con los objetivos estratégicos y financieros del cliente, generando valor a largo plazo.",
+          "startEndDate": {
+            "start": {
+              "month": 9,
+              "year": 2022
+            },
+            "end": null
+          },
+          "contractType": "Full-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHJMGy3dozYDQ/company-logo_400_400/company-logo_400_400/0/1631320315413?e=1747267200&v=beta&t=37YHZCKGBwg-6p10ymM3aXZz0GWV_NYoMSa-0w9_D0o",
+          "linkedInUrl": "https://www.linkedin.com/company/82763/",
+          "linkedInId": "82763"
+        },
+        {
+          "title": "Solutions Architect",
+          "companyName": "Ricoh Spain IT Services",
+          "companyLocation": "Avda. Vía Augusta, 71-73 08174 Sant Cugat, Barcelona",
+          "description": "🌐 Solutions Architect | Enabling Seamless Technology Adoption for Companies\n\nComo Arquitecto de Soluciones en Ricoh, mi responsabilidad principal es facilitar a las empresas la adopción efectiva de tecnologías innovadoras. Mi día a día se centra en:\n\n🚀 Actividades Diarias:\n\nReuniones Estratégicas: Colaboro estrechamente con clientes, directores de proyectos, analistas funcionales y otros para comprender a fondo sus requisitos operativos y funcionales.\nDesarrollo de POC: Convierto los requisitos comerciales en pruebas de concepto (POCs) tangibles, demostrando cómo las soluciones propuestas pueden abordar eficazmente los desafíos empresariales.\nEstar al Día con las Tendencias de TI: Mantengo una visión actualizada de las tendencias de tecnología de la información para asegurar que las soluciones propuestas estén a la vanguardia.\nOptimización Continua: Siempre busco la mejor manera de abordar los desafíos, garantizando la implementación de soluciones de manera eficiente y efectiva.\n🧠 Áreas de Conocimiento:\n\nContenedores y Orquestadores: Especialización en Docker, Kubernetes, GKE y AKS.\nNube: Experiencia en IBM Bluemix, AWS, Azure y Google Cloud.\nIA (Inteligencia Artificial): Conocimientos en IBM Watson y Microsoft Luis.\nFrameworks Web: Dominio de Spring Boot, JHipster y Angular.\nDesarrollo Móvil: Experiencia en desarrollo para Android.\nArquitecturas (SOA, EDA, Gestión de API y Microservicios): Utilización de WSO2 Suite, JHipster Microservices.\nApasionado de DevOps: Implementación de GitOps, Infraestructura como Código, CI/CD.\nMi enfoque va más allá de la implementación técnica; busco crear soluciones que no solo resuelvan problemas, sino que impulsen el éxito empresarial a largo plazo.",
+          "startEndDate": {
+            "start": {
+              "month": 4,
+              "year": 2011
+            },
+            "end": {
+              "month": 11,
+              "year": 2022
+            }
+          },
+          "contractType": "Full-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQGVIISM3Xsirg/company-logo_400_400/company-logo_400_400/0/1719825175230/ricoh_espana_slu_logo?e=1747267200&v=beta&t=yiF38n6hnie2jOKm-PdyUWyCW_nD0oAY8JFbhXECCsQ",
+          "linkedInUrl": "https://www.linkedin.com/company/690447/",
+          "linkedInId": "690447"
+        },
+        {
+          "title": "Senior Software Architect",
+          "companyName": "IN2 - INGENIERIA DE LA INFORMACION",
+          "companyLocation": "Barcelona Area, Spain",
+          "description": "💻 Rol : Arquitecto de Software Sénior\nDesempeñando el rol de Arquitecto de Software Sénior en IN2, mi trayectoria abarca 3 años y 7 meses, donde he contribuido significativamente al éxito de proyectos notables.\n\n🗓️ Período como Senior Technology Consultant: 2009 - Abril 2011 | 2 años 4 meses\nDurante este período, me desempeñé como Consultor Tecnológico Sénior, especializado en SOA, Web 2.0 y ECM, liderando proyectos fascinantes y desafiantes.\n\n🌐 Proyectos Destacados:\n\nLideré la Oficina Técnica del Expediente Clínico Electrónico (EHR) en Cataluña (HC3), contribuyendo al avance de la salud electrónica.\nEncabezé la Oficina Técnica de la Agencia Catalana del Agua (ACA), liderando proyectos estratégicos.\nMi enfoque se ha centrado en la arquitectura de software, con especialización en SOA, Web 2.0 y ECM. He sido parte integral de proyectos clave que han demostrado mi capacidad para abordar desafíos tecnológicos y liderar equipos hacia el éxito.",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2009
+            },
+            "end": {
+              "month": 4,
+              "year": 2011
+            }
+          },
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFr8WLxhq_ABA/company-logo_400_400/company-logo_400_400/0/1738230507914/in2_ingenieria_de_la_informacion_logo?e=1747267200&v=beta&t=i0i1alNsFM0GbErqUV7Px_AmzuPOZeAz86qMaKICFFg",
+          "linkedInUrl": "https://www.linkedin.com/company/329006/",
+          "linkedInId": "329006"
+        },
+        {
+          "title": "Software architect",
+          "companyName": "IN2 - INGENIERIA DE LA INFORMACION",
+          "companyLocation": "Barcelona Area, Spain",
+          "description": "Technology Consultant. Specialized in JEE Web 2.0 solutions based on Liferay Portal, Weblogic Portal, Alfresco ECM, JEE\n\nInteresting Projects:\n\nWeb 2.0 Portals (Liferay, Alfresco ECM, Spring MVC, Struts, JSF, Spring, EJB, Hibernate)\n  - Portal ATC (Taxation Agency of Catalonia)\n  - Portal Barcelona Chamber of Commerce.\n  - Portal AMB (Area Metropolitana de Barcelona)\n  - Web 2.0 Infrastructure CTTI.\n  - Carrier Portal PANRICO.\n\nWeb 2.0 Portals (Bea Weblogic, JSF, Spring, Hibernate)\n  - Portal Fira de Barcelona.\n  - Portal ACA (Catalan Water Agency)\n \nSecurity. (NCipher, JCE, Bouncy Castle, Struts, Spring, Hibernate)\n  - Platform for Winterthur electronic signature.",
+          "startEndDate": {
+            "start": {
+              "month": 10,
+              "year": 2007
+            },
+            "end": {
+              "month": 12,
+              "year": 2009
+            }
+          },
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFr8WLxhq_ABA/company-logo_400_400/company-logo_400_400/0/1738230507914/in2_ingenieria_de_la_informacion_logo?e=1747267200&v=beta&t=i0i1alNsFM0GbErqUV7Px_AmzuPOZeAz86qMaKICFFg",
+          "linkedInUrl": "https://www.linkedin.com/company/329006/",
+          "linkedInId": "329006"
+        },
+        {
+          "title": "J2EE Team Leader",
+          "companyName": "IN2 - INGENIERIA DE LA INFORMACION",
+          "companyLocation": "Barcelona Area, Spain",
+          "description": "Team leader in IT projects. Specializing in J2EE.\n\nTechnologies used in this stage:\n   - Struts, JSF, Spring, Hibernate, Jasper Reports, Ant, Tomcat, Linux.\nProjects of interest:\n  - Platform for Winterthur brokerage management. (Struts, Spring, Hibernate)\n  - Migration Portal servijob.",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2005
+            },
+            "end": {
+              "month": 1,
+              "year": 2007
+            }
+          },
+          "contractType": "IN2 - INGENIERIA DE LA INFORMACION",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFr8WLxhq_ABA/company-logo_400_400/company-logo_400_400/0/1738230507914/in2_ingenieria_de_la_informacion_logo?e=1747267200&v=beta&t=i0i1alNsFM0GbErqUV7Px_AmzuPOZeAz86qMaKICFFg",
+          "linkedInUrl": "https://www.linkedin.com/company/329006/",
+          "linkedInId": "329006"
+        },
+        {
+          "title": "Senior Software Developer",
+          "companyName": "Reply",
+          "companyLocation": "Barcelona Area, Spain",
+          "description": "Desarrollo de software en JEE, JSF, Hibernate y Oracle PL/SQL.",
+          "startEndDate": {
+            "start": {
+              "month": 7,
+              "year": 2004
+            },
+            "end": {
+              "month": 9,
+              "year": 2005
+            }
+          },
+          "contractType": "Reply",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEkZRKKH0CczA/company-logo_400_400/company-logo_400_400/0/1736244419981/reply_logo?e=1747267200&v=beta&t=3W1ssKXxutPscqoEnFKlTvIWsv6HvjX0xOvj6O_i32s",
+          "linkedInUrl": "https://www.linkedin.com/company/4724/",
+          "linkedInId": "4724"
+        },
+        {
+          "title": "Senior J2EE Developer",
+          "companyName": "Freelance",
+          "companyLocation": "Barcelona Area, Spain",
+          "description": "Collaborating with several companies in J2EE web projects and IT security.\nActively participated in the European project CertiVeR, validation project that implements the OCSP http://www.certiver.com.",
+          "startEndDate": {
+            "start": {
+              "month": 6,
+              "year": 2002
+            },
+            "end": {
+              "month": 8,
+              "year": 2004
+            }
+          },
+          "contractType": "Freelance",
+          "companyLogo": null,
+          "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=Freelance"
+        },
+        {
+          "title": "J2EE Software Developer",
+          "companyName": "Safelayer Secure Communications",
+          "companyLocation": "Barcelona Area, Spain",
+          "description": "Analyst / Programmer in J2EE Safelayer Secure Communications, SA is the market leader in security and confidence in ICT. http://www.safelayer.com.\n\nTraining PKI, Certification Authority, Revocation Authority, OCSP, ....",
+          "startEndDate": {
+            "start": {
+              "month": 7,
+              "year": 2001
+            },
+            "end": {
+              "month": 7,
+              "year": 2002
+            }
+          },
+          "contractType": "Safelayer Secure Communications",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQGcjVC6KXcUwA/company-logo_400_400/company-logo_400_400/0/1630530412507/safelayer_secure_communications_logo?e=1747267200&v=beta&t=qZFiAKHxSpwTr06fYGdVGYN0q6EyEymMkXNvgYTyQKE",
+          "linkedInUrl": "https://www.linkedin.com/company/94520/",
+          "linkedInId": "94520"
+        }
+      ]
+    },
+    "schools": {
+      "educationsCount": 2,
+      "educationHistory": [
+        {
+          "degreeName": "Bachelor Degree in Computing Engineering",
+          "fieldOfStudy": "Information Technology",
+          "description": "The aim of the Degree in Informatics Engineering is to give students a general grounding in informatics, examine all or most subjects inherent to the field in depth and train them to attain pass one of the areas of specialization offered by the School.\n\nThe FIB currently offers the following areas of specialization:\n\n- High-performance architectures and computing\n- Software engineering and information systems\n- Fundamentals of computing\n- Data management and operations\n- System interfaces and integration\n- Advanced programming techniques\n- Telematic networks and operating systems",
+          "linkedInUrl": "https://www.linkedin.com/company/166622/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEmGYkHUN31VA/company-logo_400_400/company-logo_400_400/0/1675677516156/universitat_politecnica_de_catalunya_logo?e=1747267200&v=beta&t=g7YNalXASTrbY5l6XVs-gix1h8grU-3Ov60dEeqqvmw",
+          "schoolName": "Universitat Politècnica de Catalunya",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 1997
+            },
+            "end": {
+              "month": 1,
+              "year": 2001
+            }
+          }
+        },
+        {
+          "degreeName": "Ingeniero Técnico en Informática de Gestión",
+          "fieldOfStudy": "Computer Software Engineering",
+          "linkedInUrl": "https://www.linkedin.com/company/57125/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQG-cnCSPX4QJw/company-logo_400_400/company-logo_400_400/0/1630642957412?e=1747267200&v=beta&t=9lQGZiTjCmby2vX9DgR2v7yqccPdtHhMORaG7ftXIlQ",
+          "schoolName": "Universidad Pontificia de Salamanca",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 1992
+            },
+            "end": {
+              "month": 1,
+              "year": 1997
+            }
+          }
+        }
+      ]
+    },
+    "skills": [
+      "Nube híbrida",
+      "FinOps",
+      "Computación en la nube",
+      "Microsoft Azure",
+      "Kubernetes",
+      "Azure Kubernetes Service (AKS)",
+      "GitOps",
+      "Solution Architecture",
+      "Pre-sales",
+      "Open Source",
+      "SOA",
+      "Enterprise Architecture",
+      "Web Services",
+      "Agile Methodologies",
+      "Enterprise Content Management",
+      "Docker",
+      "Java Enterprise Edition",
+      "Spring Framework",
+      "Java EE",
+      "Weblogic",
+      "Linux",
+      "Hibernate",
+      "Spring",
+      "Web 2.0",
+      "Maven",
+      "EJB",
+      "REST",
+      "Enterprise JavaBeans",
+      "microservices",
+      "Arquitectura orientada a servicios",
+      "Middleware",
+      "Oracle SOA Suite",
+      "Liferay",
+      "Alfresco",
+      "DevOps",
+      "Oracle Service Bus",
+      "wso2",
+      "Portals",
+      "Servicios web",
+      "ESB"
+    ],
+    "languages": ["Catalán", "Español", "Inglés"],
+    "recommendations": {
+      "recommendationsCount": 8,
+      "recommendationHistory": [
+        {
+          "caption": "October 3, 2018, Juan worked with Juan Carlos on the same team",
+          "description": "He trabajado en varias etapas con Juan Carlos. Reúne cualidades profesionales muy difíciles de encontrar en una misma persona: conocimiento exhaustivo de las tecnologías actuales de mercado, capacidad innata para \"hacer equipo\" y liderarlo, gran comunicador y una clara orientación a cliente y a negocio. Gracias también a sus excelentes cualidades personales, le permite compartir su conocimiento y experiencia de manera amena y divertida para todos. Todo un lujo tenerlo en tu equipo, ya sea en la venta, en los equipos de innovación internos, en la elección del portfolio tecnológico o en la ejecución de cualquier proyecto.",
+          "authorFullname": "Juan Nadal",
+          "authorUrl": "https://www.linkedin.com/in/juannadal"
+        },
+        {
+          "caption": "May 16, 2012, Monica worked with Juan Carlos on the same team",
+          "description": "Si las bases para un buen trabajo es contar con un buen equipo, que Juan Carlos forme parte de él asegura el éxito con creces.\r\nSu capacidad de trabajo, conocimiento de la tecnología y orientación a cliente se potencia por un carisma y empatía que genera la dinámica necesaria para afrontar cualquier proyecto.\r\nAprender de compañeros es gratificante, hacerlo de la mano de Juan Carlos además es motivador, divertido, y crea adicción.",
+          "authorFullname": "Monica Sanyer",
+          "authorUrl": "https://www.linkedin.com/in/monicasanyer"
+        },
+        {
+          "caption": "July 3, 2011, Joan Carles managed Juan Carlos directly",
+          "description": "Juan Carlos combina unos excelentes conocimientos técnicos, con una gran capacidad organizativa y visión de negocio. Su actitud positiva ante el trabajo y gran capacidad relación, hacen de él una persona que consigue que todo el equipo de trabajo evolucione y crezca con él.",
+          "authorFullname": "Joan Carles Laina Farell",
+          "authorUrl": "https://www.linkedin.com/in/joancarleslaina"
+        },
+        {
+          "caption": "June 27, 2011, Raúl worked with Juan Carlos on the same team",
+          "description": "He tenido la suerte de trabajar con Juan Carlos y siempre ha demostrado una gran profesionalidad, compañerismo, sensatez y conocimiento de las tecnologias con las que trabaja. Compagina a la perfección sus conocimientos técnicos con su gran visión de negocio. Cabe destacar que gracias a sus cualidades fomenta un trabajo con él muy ameno. Es una de las personas con las que más he aprendido profesionalmente.",
+          "authorFullname": "Raúl Vázquez Bodi",
+          "authorUrl": "https://www.linkedin.com/in/ra%C3%BAl-v%C3%A1zquez-bodi-4b33ab16"
+        },
+        {
+          "caption": "March 22, 2011, Pedro worked with Juan Carlos but on different teams",
+          "description": "He tenido la suerte de haber trabajado con Juan Carlos en varios proyectos, en los que he podido aprender mucho de él. Lider nato, excelente profesional y persona",
+          "authorFullname": "Pedro Canet",
+          "authorUrl": "https://www.linkedin.com/in/pedro-canet-82ba8a3"
+        },
+        {
+          "caption": "January 27, 2011, Elena worked with Juan Carlos on the same team",
+          "description": "He tenido la suerte de poder trabajar con Juan Carlos en diferentes proyectos y en todos ellos ha destacado por sus grandes dotes de liderazgo y comunicación, su pasión por la tecnología y los retos y su gran visión de negocio. Excelente profesional, compañero y gran persona.",
+          "authorFullname": "Elena Calduch",
+          "authorUrl": "https://www.linkedin.com/in/elenacalduch"
+        },
+        {
+          "caption": "January 21, 2011, Juan Carlos was senior to Raquel but didn't manage Raquel directly",
+          "description": "He trabajado con Juan Carlos en proyectos en los últimos tres años, demostrando en todos ellos gran profesionalidad, una buena visión de negocio, gran pasión por las nuevas tecnologías y productos y grandes cualidades para fomentar el trabajo en equipo. En resumen un gran profesional y buen jefe.",
+          "authorFullname": "Raquel Cubiñá Escudero",
+          "authorUrl": "https://www.linkedin.com/in/raquelcubina"
+        },
+        {
+          "caption": "April 4, 2008, Ivan reported directly to Juan Carlos",
+          "description": "Juan Carlos is a great communicator with clear ideas and a high knowledge of the technology",
+          "authorFullname": "Ivan Tarradellas Olmo",
+          "authorUrl": "https://www.linkedin.com/in/itarradellas"
+        }
+      ]
+    },
+    "certifications": {
+      "certificationsCount": 20,
+      "certificationHistory": [
+        {
+          "name": "FinOps Certified Practitioner",
+          "organizationName": "FinOps Foundation, a Linux Foundation program",
+          "organizationUrl": null,
+          "issuedDate": "Issued Jul 2024 · Expires Jul 2026"
+        },
+        {
+          "name": "Microsoft Certified: Azure Network Engineer Associate (AZ-700)",
+          "organizationName": "Microsoft",
+          "organizationUrl": "https://www.linkedin.com/company/1035/",
+          "issuedDate": "Issued Oct 2022"
+        },
+        {
+          "name": "ITIL Foundation certificate in IT Service Management",
+          "organizationName": "APMG International",
+          "organizationUrl": "https://www.linkedin.com/company/1994898/",
+          "issuedDate": "Issued Dec 2017"
+        },
+        {
+          "name": "Alfresco Partner Sales Certificate",
+          "organizationName": "Alfresco",
+          "organizationUrl": "https://www.linkedin.com/company/25736/",
+          "issuedDate": "Issued Nov 2017"
+        },
+        {
+          "name": "Convence con Presentaciones Eficaces",
+          "organizationName": "Udemy",
+          "organizationUrl": "https://www.linkedin.com/company/822535/",
+          "issuedDate": "Issued Nov 2017"
+        },
+        {
+          "name": "Introducción a Big Data",
+          "organizationName": "Coursera",
+          "organizationUrl": null,
+          "issuedDate": "Issued Oct 2015"
+        },
+        {
+          "name": "WSO2 Certified Carbon Administrator – [ CCA ]",
+          "organizationName": "WSO2",
+          "organizationUrl": "https://www.linkedin.com/company/66028/",
+          "issuedDate": "Issued Jun 2014"
+        },
+        {
+          "name": "WSO2 Certified ESB Developer – [ CESBD ]",
+          "organizationName": "WSO2",
+          "organizationUrl": "https://www.linkedin.com/company/66028/",
+          "issuedDate": "Issued Jun 2014"
+        },
+        {
+          "name": "Oracle Service-Oriented Architecture 11g PreSales Specialist",
+          "organizationName": "Oracle",
+          "organizationUrl": "https://www.linkedin.com/company/1028/",
+          "issuedDate": "Issued Nov 2012"
+        },
+        {
+          "name": "Oracle WebCenter Content 11g PreSales Specialist",
+          "organizationName": "Oracle",
+          "organizationUrl": "https://www.linkedin.com/company/1028/",
+          "issuedDate": "Issued Sep 2012"
+        },
+        {
+          "name": "Oracle WebCenter Content 11g Sales Specialist",
+          "organizationName": "Oracle",
+          "organizationUrl": "https://www.linkedin.com/company/1028/",
+          "issuedDate": "Issued Sep 2012"
+        },
+        {
+          "name": "Scrum Manager Certified",
+          "organizationName": "Scrum Alliance",
+          "organizationUrl": "https://www.linkedin.com/company/871226/",
+          "issuedDate": "Issued Jul 2010"
+        },
+        {
+          "name": "Sun Certified Enterprise Architect (SCEA) EE5",
+          "organizationName": "Sun Microsystems",
+          "organizationUrl": "https://www.linkedin.com/company/1062/",
+          "issuedDate": "Issued Jul 2010"
+        },
+        {
+          "name": "nCipher Certified Solution Developer (nCSD)",
+          "organizationName": "nCipher",
+          "organizationUrl": null,
+          "issuedDate": "Issued Mar 2009"
+        },
+        {
+          "name": "nCipher Certified Systems Engineer (nCSE)",
+          "organizationName": "ncipher",
+          "organizationUrl": null,
+          "issuedDate": "Issued Mar 2009"
+        },
+        {
+          "name": "Bea SOA Architect Certified",
+          "organizationName": "BEA Systems",
+          "organizationUrl": "https://www.linkedin.com/company/1785/",
+          "issuedDate": "Issued Apr 2008"
+        },
+        {
+          "name": "Bea SOA Foundations, Adoption and Implementation",
+          "organizationName": "BEA Systems",
+          "organizationUrl": "https://www.linkedin.com/company/1785/",
+          "issuedDate": "Issued Apr 2008"
+        },
+        {
+          "name": "Alfresco Trainer Certified",
+          "organizationName": "Alfresco",
+          "organizationUrl": "https://www.linkedin.com/company/25736/",
+          "issuedDate": "Issued Sep 2007"
+        },
+        {
+          "name": "Cisco Certified Network Associate (CCNA)",
+          "organizationName": "Cisco",
+          "organizationUrl": "https://www.linkedin.com/company/1063/",
+          "issuedDate": "Issued Apr 2004"
+        },
+        {
+          "name": "Microsoft Certified: Azure Administrator Associate",
+          "organizationName": "Microsoft",
+          "organizationUrl": "https://www.linkedin.com/company/1035/",
+          "issuedDate": "Issued Oct 2022 · Expired Oct 2024"
+        }
+      ]
+    },
+    "testScores": {
+      "testScoresCount": 0,
+      "testScoreHistory": []
+    },
+    "volunteeringExperiences": {
+      "volunteeringExperiencesCount": 0,
+      "volunteeringExperienceHistory": []
+    }
+  },
+  "company": {
+    "linkedInId": "82763",
+    "name": "Ricoh IT Services",
+    "universalName": "imc-communications",
+    "linkedInUrl": "https://www.linkedin.com/company/82763",
+    "employeeCount": 47,
+    "followerCount": 2070,
+    "employeeCountRange": {
+      "start": 501,
+      "end": 1000
+    },
+    "websiteUrl": "http://www.ricohitservices.com.au",
+    "tagline": null,
+    "description": "Ricoh IT Services specialises in the provision of managed IT services, data centre services, engineering solutions and consulting and technology procurement services.\r\n\r\nA trusted IT services partner to major Australian organisations, Ricoh IT Services provides the support, know-how and technology that Australian businesses need to remain at the top of their game.\r\n\r\nRicoh IT Services has a superior level of industry certification and expertise, customer focused culture and a proven track record of delivering successful outcomes that support clients’ business and objectives. \r\n\r\nWhether you need help with an IT integration project, managed IT service or IT procurement, Ricoh IT Services is an ideal partner who can assist your in-house team where required or become your outsourced IT department. \r\n\r\nAs part of its global IT services strategy, in October 2012 Ricoh acquired IMC Communications, an Australian IT integrator with a history of delivering successful IT solutions and services to major organisations since 1994. Through this acquisition Ricoh expanded its IT services capabilities, combining the proven expertise of IMC backed by the power of Ricoh.\r\n\r\nPartners include: Cisco, VMWare, Microsoft, NetApp, Citrix, IBM, Riverbed, Software One, HP, Earthwave, F5, Redhat, Kaseya, Symantec, Lenovo, Dell, Adobe, APC, Veeam.",
+    "industry": "IT Services and IT Consulting",
+    "phone": null,
+    "specialities": [
+      "IT Infrastructure monitoring and management",
+      "Networking",
+      "Security",
+      "Virtualisation",
+      "Systems & Storage",
+      "Unified Communications",
+      "Hosting, Co-location & Disaster Recovery",
+      "Data Centre Services",
+      "Technology Procurement",
+      "Project Management Consultancy"
+    ],
+    "headquarter": {
+      "city": "North Sydney",
+      "country": "AU",
+      "postalCode": "2060",
+      "geographicArea": "NSW",
+      "street1": "L10, 53 Walker Street",
+      "street2": null
+    },
+    "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHJMGy3dozYDQ/company-logo_400_400/company-logo_400_400/0/1631320315413?e=1747267200&v=beta&t=37YHZCKGBwg-6p10ymM3aXZz0GWV_NYoMSa-0w9_D0o",
+    "foundedOn": {
+      "year": 1994
+    },
+    "fundingData": null,
+    "backgroundUrl": null
+  }
+}
